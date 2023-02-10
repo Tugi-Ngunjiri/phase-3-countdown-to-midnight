@@ -14,6 +14,6 @@ def countdown_with_sleep
     t = 2
     while t < 10
         puts "#{t} is less than 10"
-    t  += 2
+    t  +
 end
 
